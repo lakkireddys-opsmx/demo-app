@@ -1,6 +1,6 @@
-package com.opsmx.sampleapp.service;
+package com.example.sampleapp.service;
 
-import com.opsmx.sampleapp.controller.MainController;
+import com.example.sampleapp.controller.MainController;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

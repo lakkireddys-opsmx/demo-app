@@ -1,6 +1,6 @@
-package com.opsmx.sampleapp.controller;
+package com.example.sampleapp.controller;
 
-import com.opsmx.sampleapp.service.MainService;
+import com.example.sampleapp.service.MainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
