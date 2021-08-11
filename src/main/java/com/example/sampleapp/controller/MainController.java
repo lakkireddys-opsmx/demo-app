@@ -30,7 +30,7 @@ public class MainController {
     @GetMapping("/delay")
     public Object delay() {
         try {
-            Thread.sleep(5000);
+            Thread.sleep(20);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
